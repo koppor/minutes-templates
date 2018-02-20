@@ -33,6 +33,7 @@ Siehe auch "Offene Tasks"
 
 ## Agenda <!-- wird vor der Telefonkonferenz erstellt und während der Telefonkonferenz mit einem Status versehen -->
 - [ ] Änderungen an der Agenda
+- [ ] Durchsicht offene Punkte
 - [ ] <!-- weitere Punkte -->
 - [ ] Festlegung nächste Telefonkonferenz
 
