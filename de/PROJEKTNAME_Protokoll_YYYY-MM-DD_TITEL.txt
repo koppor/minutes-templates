@@ -5,33 +5,19 @@
 - Ende:   
 - Protokollant: VN
 
-## Teilnehmer <!-- wird während Telefonkonferenz angepasst -->
-* Partnername:  VN, VN
-* Partnername:  VN, VN
+## Teilnehmer
+<!-- wird während Telefonkonferenz angepasst -->
+* (Partnernkürzel)  VN, VN
+* (Partnernkürzel)  VN, VN
 
 ## Inhalt
-* Ergebnisse
 * Agenda
 * Offene Tasks
 * Verlaufsprotokoll
+* Ergebnisse
 
-
-## Ergebnisse <!-- wird nach der Telefonkonferenz angepasst -->
-
-### Nächste Termine
-* Donnerstag, 27.8. Nächste Telefonkonferenz
-
-### Neue Tasks
-
-Siehe auch "Offene Tasks"
-
-#### ALLE
-
-#### Partnername
-- [ ] (Partnername) Muster
-
-
-## Agenda <!-- wird vor der Telefonkonferenz erstellt und während der Telefonkonferenz mit einem Status versehen -->
+## Agenda
+<!-- wird vor der Telefonkonferenz erstellt und während der Telefonkonferenz mit einem Status versehen -->
 - [ ] Änderungen an der Agenda
 - [ ] Durchsicht offene Punkte
 - [ ] <!-- weitere Punkte -->
@@ -46,17 +32,29 @@ Siehe auch "Offene Tasks"
 
 ## Offene Tasks
 Quellen:
- * "Neue Tasks" und "Offene Tasks" der letzten Telefonkonferenz
- * Neue Tasks, die via Email kommuniziert wurden
+ * "Offene Tasks" und "Neue Tasks" und der letzten Telefonkonferenz
+ * Neue Tasks, die z.B. via Email kommuniziert wurden
 
-### ALLE
-- [ ] Muster
-
-### Partnername
-- [ ] (Partnername) Muster
+- [ ] (ALLE) Muster
+- [ ] (Partnernkürzel) Muster
 
 
 ## Verlaufsprotokoll
 <!-- wird während der Telefonkonferenz angefertigt -->
 - ...
 - ...
+
+## Ergebnisse
+<!-- wird nach der Telefonkonferenz angepasst -->
+
+### Nächste Termine
+* Donnerstag, 27.8. Nächste Telefonkonferenz
+
+### Neue Tasks
+
+Siehe auch "Offene Tasks"
+
+#### ALLE
+
+#### Partnername
+- [ ] (Partnername) Muster
