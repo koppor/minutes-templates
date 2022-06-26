@@ -1,0 +1,5 @@
+vscode:
+  extensions:
+    - DavidAnson.vscode-markdownlint
+    - valentjn.vscode-ltex
+    - yzhang.markdown-all-in-one
